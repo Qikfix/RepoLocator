@@ -9,6 +9,7 @@ In order to excute run the following prior:
 Now you can execute:
 
 ```
+# wget https://raw.githubusercontent.com/risantam89/RepoLocator/main/repolocator.sh
 # ./repolocator.sh
 ```
 
