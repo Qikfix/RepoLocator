@@ -2,8 +2,8 @@
 
 In order to excute run the following prior:
 ```
-# hammer --csv repository list > repolist.txt
-# hammer --csv content-view list > cv_list.txt
+# hammer --csv repository list > /tmp/repolist.txt
+# hammer --csv content-view list > /tmp/cv_list.txt
 ```
 
 Now you can execute:
