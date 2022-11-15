@@ -10,6 +10,7 @@ Now you can execute:
 
 ```
 # wget https://raw.githubusercontent.com/risantam89/RepoLocator/main/repolocator.sh
+# chmod +x repolocator.sh
 # ./repolocator.sh
 ```
 
