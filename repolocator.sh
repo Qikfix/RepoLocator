@@ -22,7 +22,7 @@ for b in $ID
 do
   echo - "Repo ID ....: $b"
   echo - "Repo Name ..: $(echo "$FULL" | grep ^$b, | cut -d, -f2)"
-  cat $CV_LIST | grep -E "(\"$b,| $b,| $b\")" | cut -d, -f1,2
+  cat $CV | grep -E "(\"$b,| $b,| $b\")" | cut -d, -f1,2
   echo
 done
 
